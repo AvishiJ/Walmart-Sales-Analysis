@@ -108,9 +108,3 @@ This dataset contains sales transactions from a three different branches of Walm
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
 
-
-## Usage
-1. Clone the repository to your local machine.
-2. Open the Excel workbook located in the /Visualizations directory.
-3. Explore the various sheets and visualizations using slicers and filters to interactively analyze the sales data.
-4. Refer to the README.md file for additional guidance on interpreting the visualizations and understanding the project scope.
